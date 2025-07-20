@@ -1,8 +1,7 @@
 # Lab 6: Finding Match Archetypes – Unsupervised Clustering
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/drive/1zwkMYuUXq-Hinr8cXkCQUWWPzk5EVW4-?usp=sharing)
-
+https://github.com/KP-AI-ML-Labs/Lab6-Clustering/blob/main/g_Lab6_S.ipynb)
 ---
 
 ## 📖 Story Point  
